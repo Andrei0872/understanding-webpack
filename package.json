@@ -1,0 +1,13 @@
+{
+  "name": "understanding-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "understand": "yarn dummy-example",
+    "dummy-example": "webpack --config ./examples/dummy-example/webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
