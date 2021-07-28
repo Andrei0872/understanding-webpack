@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "understand": "yarn dummy-example",
-    "dummy-example": "webpack --config ./examples/dummy-example/webpack.config.js"
+    "understand": "yarn import-order",
+    "import-order": "webpack --config ./examples/import-order/webpack.config.js",
+
+    "create-example": "cd examples && cp -r dummy-example"
   },
   "keywords": [],
   "author": "",
