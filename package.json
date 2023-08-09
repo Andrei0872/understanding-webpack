@@ -1,0 +1,11 @@
+{
+  "name": "exploring-webpack",
+  "version": "1.0.0",
+  "description": "Exploring webpack",
+  "scripts": {
+    "explore": "webpack --config ./examples/archetype/webpack.config.js"
+  },
+  "keywords": [],
+  "author": "https://andrei.gatej",
+  "license": "MIT"
+}
