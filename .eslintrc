@@ -1,0 +1,16 @@
+{ 
+    "parserOptions": {
+    "ecmaVersion": 2015,
+    "sourceType": "module"
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  },
+    "extends": [
+        "eslint:recommended"
+    ],
+  "ignorePatterns": [
+    "./examples/"
+  ]
+}
