@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Exploring webpack",
   "scripts": {
-    "explore": "webpack --config ./examples/chunk-graph/webpack.config.js"
+    "explore": "webpack --config ./examples/merge-duplicate/webpack.config.js"
   },
   "keywords": [],
   "author": "https://andrei.gatej",
