@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Exploring webpack",
   "scripts": {
-    "explore": "webpack --config ./examples/split-chunks-reuse-existing-chunk/webpack.config.js"
+    "explore": "webpack --config ./examples/chunk-preload/webpack.config.js"
   },
   "keywords": [],
   "author": "https://andrei.gatej",
